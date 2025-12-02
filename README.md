@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hey there ✌️
+I'm [**Ruslan (Nik0Maybe)**](https://www.linkedin.com/in/nik0maybe/), a full-stack engineer based in New York.
 
-<!--
-**Nik0Maybe/Nik0Maybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design, build, break, fix, and ship everything I can imagine.  
 
-Here are some ideas to get you started:
+I mostly work with TypeScript, Node.js, React/Next.js, PostgreSQL, and AWS.  
+I also work with Go, cloud infrastructure, and AI/LLM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like building things that are fast, practical, and actually useful. 
+
+---
+### Tools & Tech 
+- TypeScript, JavaScript, Go, Python
+- React, Next.js, Node.js, Express  
+- PostgreSQL, MySQL, Redis, Supabase
+- AWS, Docker, Kubernetes, GitHub Actions  
+
+---
+
+I'm also interested in cryptography, blockchain systems, networking, distributed systems, and building scalable backend tools.

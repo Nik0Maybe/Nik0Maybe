@@ -1,10 +1,10 @@
 ### Hey there ✌️
 I'm [**Ruslan (Nik0Maybe)**](https://www.linkedin.com/in/nik0maybe/), a full-stack engineer based in New York.
 
-I design, build, break, fix, and ship everything I can imagine.  
+I design, build, break, fix, and ship. 
 
-I mostly work with TypeScript, Node.js, React/Next.js, PostgreSQL, and AWS.  
-I also work with Go, cloud infrastructure, and AI/LLM.
+I mostly work with JS/TS, Node.js, React/Next.js, PostgreSQL, and AWS.  
+I also work with Go, Solidity, Cloud infrastructure, and AI/LLM.
 
 I like building things that are fast, practical, and actually useful. 
 
